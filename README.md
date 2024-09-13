@@ -1,2 +1,2 @@
 # gits
-it is my git practice folder
+it is my git practice folder.
